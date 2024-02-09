@@ -1,0 +1,1 @@
+export const COLOR_BUTTON='#2f95dc'
